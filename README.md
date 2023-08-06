@@ -43,3 +43,24 @@
 Credit: [Danushka2](https://github.com/Danushka2)
 
 Last edited on: 30/06/2022
+
+
+<h1 align="center">Hi 👋, I'm M Karthik</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
+
+- 🔭 I’m currently learn on [jhjkhlh](https://github.com/karthik8611/BankManagementSystem)
+
+- 🌱 I’m currently learning **Java,Mern stack**
+
+- 👯 I’m looking to collaborate on [glglglg](https://leetcode.com/problems/number-of-music-playlists/)
+
+- 🤝 I’m looking for help with **lglgllglg**
+
+- 💬 Ask me about **lglglllllllg**
+
+- 📫 How to reach me **mkarthik9009@gmail.com**
+
+- ⚡ Fun fact **lgllllgl**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
